@@ -1,0 +1,30 @@
+2023/06/19 09:57:52 TAP device component ID: {40E46EC2-A6EF-42D8-B7A6-655C3C3178E7}
+2023/06/19 09:57:52 TAP device name: Local Area Connection
+2023/06/19 09:57:52 Set Local Area Connection with net/mask: 10.0.236.10/255.255.255.0 through DHCP
+2023/06/19 09:57:52 Set Local Area Connection with DNS: 1.1.1.1 through DHCP
+2023/06/19 09:57:52 Running tun2socks
+2023/06/19 09:57:52 new proxy connection to 224.0.0.251:5353
+2023/06/19 09:57:52 new proxy connection to 10.0.236.255:137
+2023/06/19 09:57:52 new proxy connection to 1.1.1.1:53
+2023/06/19 09:57:52 new proxy connection to 1.1.1.1:53
+2023/06/19 09:57:52 new proxy connection to 1.1.1.1:53
+2023/06/19 09:57:53 new proxy connection to 139.59.84.212:3478
+2023/06/19 09:57:53 new proxy connection to 1.1.1.1:53
+2023/06/19 09:57:53 new proxy connection to 20.42.72.131:443
+2023/06/19 09:57:53 new proxy connection to 157.240.235.19:443
+2023/06/19 09:57:53 new proxy connection to 1.1.1.1:53
+2023/06/19 09:57:53 new proxy connection to 104.21.50.100:443
+2023/06/19 09:57:54 new proxy connection to 239.255.255.250:1900
+2023/06/19 09:57:55 new proxy connection to 1.1.1.1:53
+2023/06/19 09:57:56 new proxy connection to 1.1.1.1:53
+2023/06/19 09:57:56 new proxy connection to 52.182.143.209:443
+2023/06/19 09:57:57 new proxy connection to 1.1.1.1:53
+2023/06/19 09:57:57 new proxy connection to 239.255.255.250:1900
+2023/06/19 09:57:57 new proxy connection to 13.107.21.239:443
+2023/06/19 09:57:57 new proxy connection to 104.21.50.100:443
+2023/06/19 09:57:59 new proxy connection to 1.1.1.1:53
+2023/06/19 09:57:59 new proxy connection to 157.240.235.35:443
+2023/06/19 09:58:00 new proxy connection to 209.126.103.67:40443
+2023/06/19 09:58:01 new proxy connection to 1.1.1.1:53
+2023/06/19 09:58:01 new proxy connection to 207.182.151.242:443
+2023/06/19 09:58:04 new proxy connection to 157.240.235.19:443

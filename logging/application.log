@@ -1,0 +1,45 @@
+[6/19/2023 9:55:32 AM][INFO] 版本: NetchX/Netch@1.8.1
+[6/19/2023 9:55:32 AM][INFO] 启动单实例
+[6/19/2023 9:55:32 AM][INFO] 主程序 SHA256: c158b182242e3aa3dc8d9f45e5dad102a4d0d9ee56be781588ca4bd42ee472ef
+[6/19/2023 9:56:01 AM][INFO] 启动主控制器: VMess [3]1) Global (System Proxy)
+[6/19/2023 9:56:05 AM][INFO] 流量统计进程:(13012)xray
+[6/19/2023 9:56:14 AM][INFO] 启动主控制器: VMess [2]2) Global (TUN/TAP)
+[6/19/2023 9:56:15 AM][INFO] 出口 网关 地址：192.168.1.1
+[6/19/2023 9:56:15 AM][INFO] 出口适配器：Wi-Fi {287D6016-AF8C-4561-A203-3FAFB19A9ECE} Intel(R) Dual Band Wireless-AC 8265, index: 4
+[6/19/2023 9:56:15 AM][INFO] TAP 适配器：Local Area Connection {40E46EC2-A6EF-42D8-B7A6-655C3C3178E7} TAP-Windows Adapter V9, index: 7
+[6/19/2023 9:56:15 AM][INFO] 设置路由规则
+[6/19/2023 9:56:15 AM][INFO] 绕行 → 规则 IP
+[6/19/2023 9:56:15 AM][INFO] 绕行 → 服务器 IP
+[6/19/2023 9:56:15 AM][INFO] 绕行 → 全局绕过 IP
+[6/19/2023 9:56:15 AM][INFO] 代理 → 全局
+[6/19/2023 9:56:15 AM][INFO] 流量统计进程:(13256)xray
+[6/19/2023 9:56:52 AM][INFO] 启动主控制器: VMess [2]2) Global (TUN/TAP)
+[6/19/2023 9:56:52 AM][INFO] 出口 网关 地址：192.168.1.1
+[6/19/2023 9:56:52 AM][INFO] 出口适配器：Wi-Fi {287D6016-AF8C-4561-A203-3FAFB19A9ECE} Intel(R) Dual Band Wireless-AC 8265, index: 4
+[6/19/2023 9:56:52 AM][INFO] TAP 适配器：Local Area Connection {40E46EC2-A6EF-42D8-B7A6-655C3C3178E7} TAP-Windows Adapter V9, index: 7
+[6/19/2023 9:56:52 AM][INFO] 设置路由规则
+[6/19/2023 9:56:52 AM][INFO] 绕行 → 规则 IP
+[6/19/2023 9:56:52 AM][INFO] 绕行 → 服务器 IP
+[6/19/2023 9:56:52 AM][INFO] 绕行 → 全局绕过 IP
+[6/19/2023 9:56:52 AM][INFO] 代理 → 全局
+[6/19/2023 9:56:53 AM][INFO] 流量统计进程:(13752)xray
+[6/19/2023 9:57:31 AM][INFO] 启动主控制器: VMess [2]2) Global (TUN/TAP)
+[6/19/2023 9:57:31 AM][INFO] 出口 网关 地址：192.168.1.1
+[6/19/2023 9:57:31 AM][INFO] 出口适配器：Wi-Fi {287D6016-AF8C-4561-A203-3FAFB19A9ECE} Intel(R) Dual Band Wireless-AC 8265, index: 4
+[6/19/2023 9:57:31 AM][INFO] TAP 适配器：Local Area Connection {40E46EC2-A6EF-42D8-B7A6-655C3C3178E7} TAP-Windows Adapter V9, index: 7
+[6/19/2023 9:57:31 AM][INFO] 设置路由规则
+[6/19/2023 9:57:31 AM][INFO] 绕行 → 规则 IP
+[6/19/2023 9:57:31 AM][INFO] 绕行 → 服务器 IP
+[6/19/2023 9:57:31 AM][INFO] 绕行 → 全局绕过 IP
+[6/19/2023 9:57:31 AM][INFO] 代理 → 全局
+[6/19/2023 9:57:32 AM][INFO] 流量统计进程:(10256)xray
+[6/19/2023 9:57:51 AM][INFO] 启动主控制器: VMess [2]2) Global (TUN/TAP)
+[6/19/2023 9:57:51 AM][INFO] 出口 网关 地址：192.168.1.1
+[6/19/2023 9:57:51 AM][INFO] 出口适配器：Wi-Fi {287D6016-AF8C-4561-A203-3FAFB19A9ECE} Intel(R) Dual Band Wireless-AC 8265, index: 4
+[6/19/2023 9:57:51 AM][INFO] TAP 适配器：Local Area Connection {40E46EC2-A6EF-42D8-B7A6-655C3C3178E7} TAP-Windows Adapter V9, index: 7
+[6/19/2023 9:57:51 AM][INFO] 设置路由规则
+[6/19/2023 9:57:51 AM][INFO] 绕行 → 规则 IP
+[6/19/2023 9:57:51 AM][INFO] 绕行 → 服务器 IP
+[6/19/2023 9:57:51 AM][INFO] 绕行 → 全局绕过 IP
+[6/19/2023 9:57:51 AM][INFO] 代理 → 全局
+[6/19/2023 9:57:52 AM][INFO] 流量统计进程:(5980)xray
